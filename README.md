@@ -6,12 +6,14 @@
 
 | コミット名  | 意味 |
 | ------------- | ------------- |
-| :wrench: fix | バグの修正 |
+| :tada: start | 初めてのコミット |
+| :bug: fix | バグの修正 |
 | :inbox_tray: add   | 機能の追加 |
-| :arrows_clockwise: update | 機能の修正 |
-| :diamond_shape_with_a_dot_inside: create | 作成 |
-| :no_entry: remove | 削除 |
+| :recycle: update | 機能の修正 |
+| :sparkles: create | 作成 |
+| :wastebasket: remove | 削除 |
 | :file_folder: save | 一時的な保存 |
+| :construction: wip | WIP |
 
 ---
 …ほんとに…それだけ
