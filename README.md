@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=420&lines=infra+%2F+low-layer+oriented+dev;%E9%9B%91%E9%A3%9F%E3%81%AB%E3%82%82%E3%81%AE%E3%82%92%E4%BD%9C%E3%82%8B%E5%AD%A6%E7%94%9F" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=037ffc&center=true&vCenter=true&width=420&lines=Hi%2C+I'm+shiki;Web+%26+Infra+Developer" alt="typing" />
 
 </div>
 
 ## 👋 shiki
 
-いろいろ作っては積んでいる開発者です。最近は Web とインフラ周りが多めです。
+いろいろ作っては積んでいるえんじにあ。最近は Web とインフラ周りが多めです。
 
 ## Stack
 
@@ -29,5 +29,5 @@
 ---
 
 <div align="center">
-<sub>草はだいたい深夜に生えます 🌙</sub>
+<sub>二度繰り返す 🌙</sub>
 </div>
