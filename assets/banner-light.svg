@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="shiki — Web &amp; Infra Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f4f5f9"/>
+      <stop offset="1" stop-color="#e9ebf3"/>
+    </linearGradient>
+    <mask id="crescent">
+      <rect width="1200" height="300" fill="#fff"/>
+      <circle cx="1002" cy="128" r="62" fill="#000"/>
+    </mask>
+  </defs>
+  <rect width="1200" height="300" rx="16" fill="url(#bg)"/>
+  <g fill="#343b58">
+    <circle cx="760" cy="60" r="1.6" opacity=".35"/>
+    <circle cx="840" cy="210" r="1.2" opacity=".25"/>
+    <circle cx="1100" cy="230" r="1.8" opacity=".3"/>
+    <circle cx="1130" cy="70" r="1.2" opacity=".25"/>
+    <circle cx="880" cy="110" r="1" opacity=".2"/>
+    <circle cx="690" cy="250" r="1.4" opacity=".2"/>
+  </g>
+  <circle cx="970" cy="150" r="70" fill="#c58b2a" mask="url(#crescent)"/>
+  <text x="96" y="150" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="72" font-weight="700" fill="#1a1b26">shiki</text>
+  <text x="96" y="200" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="24" fill="#2e5bd8">Web &amp; Infra Developer</text>
+  <rect x="96" y="222" width="56" height="4" rx="2" fill="#c58b2a"/>
+</svg>
