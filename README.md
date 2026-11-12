@@ -20,13 +20,13 @@ Web とインフラを中心に、ツールやアプリを Svelte と Rust で�
 
 ## Projects
 
-| | Project | |
-|---|---|---|
-| 🌙 | [**Nagi**](https://github.com/shiki-01/Nagi) | Rust 製。[nagi.shiki-01.com](https://nagi.shiki-01.com) |
-| 🎬 | [**ScrPression**](https://github.com/shiki-01/ScrPression) | After Effects の Expression をビジュアルプログラミングで組むソフトウェア（Rust） |
-| ✏️ | [**MarkIn**](https://github.com/shiki-01/MarkIn) | Markdown エディタ（Svelte） |
-| 🧩 | [**sudokit**](https://github.com/shiki-01/sudokit) | SvelteKit と Service Worker で動く数独アプリ。[sudokit.f5.si](https://sudokit.f5.si) |
-| 🎤 | [**Stellar**](https://github.com/shiki-01/Stellar) | Windows / Linux 向けプレゼンテーションソフト（Svelte） |
+| | Project | | Stack |
+|---|---|---|---|
+| ⌨️ | [**Nagi**](https://github.com/shiki-01/Nagi) | 小型のローカル LLM でかな漢字変換をする日本語 IME。macOS / Windows / iOS 向けに開発中。[nagi.shiki-01.com](https://nagi.shiki-01.com) | Rust / Swift |
+| 🗂️ | [**Hikae**](https://github.com/shiki-01/Hikae) | Git の用語を出さずに「保存」と「履歴」だけで使える、非エンジニア向けのバックアップ・履歴管理アプリ | Tauri / Rust / Svelte |
+| 📖 | [**Storift**](https://github.com/shiki-01/Storift) | 原稿・プロット・キャラクター・世界観をまとめて管理する小説執筆アプリ。PWA とデスクトップ版。[storift.shiki-01.com](https://storift.shiki-01.com) | Tauri / Svelte |
+| 🧩 | [**Funbook**](https://github.com/shiki-01/Funbook) | ブロックを組み合わせてコードを生成するビジュアルブロックエディタ | Tauri / Svelte |
+| 🐈‍⬛ | [**portfolio**](https://github.com/shiki-01/portfolio) | ポートフォリオサイト。[shiki-01.com](https://shiki-01.com) | SvelteKit / Cloudflare |
 
 ## Stack
 
