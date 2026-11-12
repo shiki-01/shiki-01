@@ -31,21 +31,21 @@ Web とインフラを中心に、ツールやアプリを Svelte と Rust で�
 ## Stack
 
 **Languages**&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-153f63?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-153f63?style=flat-square&logo=rust&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-153f63?style=flat-square&logo=dotnet&logoColor=white)
 
 **Frontend**&nbsp;
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-153f63?style=flat-square&logo=svelte&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-153f63?style=flat-square&logo=tauri&logoColor=white)
 
 **Runtime / Infra**&nbsp;
-![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-153f63?style=flat-square&logo=bun&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-153f63?style=flat-square&logo=cloudflare&logoColor=white)
 
 **3D / Game**&nbsp;
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-153f63?style=flat-square&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-153f63?style=flat-square&logo=blender&logoColor=white)
 
 ## Stats
 
