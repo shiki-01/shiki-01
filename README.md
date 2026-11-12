@@ -7,8 +7,8 @@
 いろいろ作っては積んでいるえんじにあ。<br />
 Web とインフラを中心に、ツールやアプリを Svelte と Rust で作っています。
 
-[![Portfolio](https://img.shields.io/badge/shiki--01.com-1a1b26?style=flat-square&logo=svelte&logoColor=e0af68)](https://shiki-01.com)
-[![GitHub](https://img.shields.io/badge/@shiki--01-1a1b26?style=flat-square&logo=github&logoColor=7aa2f7)](https://github.com/shiki-01)
+[![Portfolio](https://img.shields.io/badge/shiki--01.com-153f63?style=flat-square&logo=svelte&logoColor=white)](https://shiki-01.com)
+[![GitHub](https://img.shields.io/badge/@shiki--01-153f63?style=flat-square&logo=github&logoColor=white)](https://github.com/shiki-01)
 
 </div>
 
