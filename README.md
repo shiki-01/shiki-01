@@ -1,10 +1,7 @@
 <div align="center">
 
 <a href="https://shiki-01.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
-    <img src="./assets/banner-light.svg" alt="shiki — Web & Infra Developer" width="100%" />
-  </picture>
+  <img src="./assets/banner.webp" alt="Shiki — 好きに、自由に。" width="100%" />
 </a>
 
 いろいろ作っては積んでいるえんじにあ。<br />
