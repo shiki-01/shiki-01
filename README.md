@@ -9,6 +9,7 @@ Web とインフラを中心に、ツールやアプリを Svelte と Rust で�
 
 [![Portfolio](./assets/badges/portfolio.svg)](https://shiki-01.com)
 [![GitHub](./assets/badges/github.svg)](https://github.com/shiki-01)
+[![Sponsor](./assets/badges/sponsor.svg)](https://github.com/sponsors/shiki-01)
 
 </div>
 
@@ -46,6 +47,18 @@ Web とインフラを中心に、ツールやアプリを Svelte と Rust で�
 **3D / Game**&nbsp;
 ![Unity](./assets/badges/unity.svg)
 ![Blender](./assets/badges/blender.svg)
+
+## Sponsors
+
+公開しているものは、すべて無料で使えます。開発を支援していただける場合は、[GitHub Sponsors](https://github.com/sponsors/shiki-01) から受け付けています。支援の有無で、使える機能は変わりません。
+
+いただいた支援は、特定のプロジェクトに限らず、開発の時間と公開・配布の費用に使います。Storift は [BOOTH](https://shiki-01.booth.pm/items/9119351) からも支援できます。
+
+### Thanks
+
+支援を「公開」に設定してくださった方を、GitHub のユーザー名で載せています。ありがとうございます。載せたくない場合は、支援の設定を「非公開」に変えてください。
+
+<!-- sponsors -->まだいません。<!-- /sponsors -->
 
 ## Stats
 

@@ -24,6 +24,7 @@ FG = "#ffffff"
 BADGES = [
     ("portfolio", "shiki-01.com", "assets/badges/icons/shiki.svg"),
     ("github", "@shiki-01", "github"),
+    ("sponsor", "Sponsor", "githubsponsors"),
     ("typescript", "TypeScript", "typescript"),
     ("rust", "Rust", "rust"),
     ("csharp", "C#", "dotnet"),
