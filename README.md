@@ -7,8 +7,8 @@
 いろいろ作っては積んでいるえんじにあ。<br />
 Web とインフラを中心に、ツールやアプリを Svelte と Rust で作っています。
 
-[![Portfolio](https://img.shields.io/badge/shiki--01.com-153f63?style=flat&logo=svelte&logoColor=white)](https://shiki-01.com)
-[![GitHub](https://img.shields.io/badge/@shiki--01-153f63?style=flat&logo=github&logoColor=white)](https://github.com/shiki-01)
+[![Portfolio](./assets/badges/portfolio.svg)](https://shiki-01.com)
+[![GitHub](./assets/badges/github.svg)](https://github.com/shiki-01)
 
 </div>
 
@@ -31,21 +31,21 @@ Web とインフラを中心に、ツールやアプリを Svelte と Rust で�
 ## Stack
 
 **Languages**&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-153f63?style=flat&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-153f63?style=flat&logo=rust&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-153f63?style=flat&logo=dotnet&logoColor=white)
+![TypeScript](./assets/badges/typescript.svg)
+![Rust](./assets/badges/rust.svg)
+![C#](./assets/badges/csharp.svg)
 
 **Frontend**&nbsp;
-![Svelte](https://img.shields.io/badge/Svelte-153f63?style=flat&logo=svelte&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-153f63?style=flat&logo=tauri&logoColor=white)
+![Svelte](./assets/badges/svelte.svg)
+![Tauri](./assets/badges/tauri.svg)
 
 **Runtime / Infra**&nbsp;
-![Bun](https://img.shields.io/badge/Bun-153f63?style=flat&logo=bun&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-153f63?style=flat&logo=cloudflare&logoColor=white)
+![Bun](./assets/badges/bun.svg)
+![Cloudflare](./assets/badges/cloudflare.svg)
 
 **3D / Game**&nbsp;
-![Unity](https://img.shields.io/badge/Unity-153f63?style=flat&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-153f63?style=flat&logo=blender&logoColor=white)
+![Unity](./assets/badges/unity.svg)
+![Blender](./assets/badges/blender.svg)
 
 ## Stats
 
